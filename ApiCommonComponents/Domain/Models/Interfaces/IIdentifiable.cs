@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ApiCommonComponents.Domain.Models.Interfaces
+﻿namespace ApiCommonComponents.Domain.Models.Interfaces
 {
     /// <summary>
     /// Provides an interface for objects which can be identified unqiutely
