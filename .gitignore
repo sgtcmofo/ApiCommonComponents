@@ -8,3 +8,4 @@
 /ApiCommonComponents/bin/Debug/netstandard2.0
 /TestApi/bin/Debug/netcoreapp3.1
 /TestApi/obj
+/ApiCommonComponents/.vs
